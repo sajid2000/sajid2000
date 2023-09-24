@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid</h1>
-<h3 align="center">A passionate fullstack web developer</h3>
+<h3 align="center">
+  Full Stack Web Developer (PHP | JAVASCRIPT). Love to explore the web technology.
+</h3>
 
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
